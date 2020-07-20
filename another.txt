@@ -2,4 +2,4 @@ this is another test file
 
 adding new line
 Addning this line to demonstrate the GIT merge.
-============================
+===========================\
